@@ -1,2 +1,3 @@
-# ReactNativeCustomComponents
-Some React Native custom components
+# React Native Custom Components
+
+Here are some custom (and experimental) components.
